@@ -64,8 +64,8 @@ DiagramAI Web is the frontend companion to the DiagramAI server, offering users 
 1. **Clone and navigate to the project**
 
    ```bash
-   git clone <repository-url>
-   cd DiagramAI/web
+   git clone https://github.com/brijeshdevio/DiagramAI.git
+   cd DiagramAI
    ```
 
 2. **Install dependencies**
